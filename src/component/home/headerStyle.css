@@ -1,0 +1,19 @@
+.toolbar {
+    border-bottom:1px solid;
+    /*${theme.palette.divider};*/
+}
+
+.toolbarTitle {
+    flex: 1;
+}
+.toolbarSecondary {
+    justify-content: space-between;
+    overflow-x: auto;
+}
+
+.toolbarLink {
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
+    padding-bottom: 1rem;
+    flex-shrink: 0;
+}

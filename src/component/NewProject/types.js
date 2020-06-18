@@ -1,0 +1,10 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_PROJECTS = "GET_PROJECTS";
+
+
+export const GET_CATEGORYS = "GET_CATEGORYS";
+export const GET_CATES = "GET_CATES";
+
+export const DELETE_PROJECT_CATEGORY = "DELETE_PROJECT_CATEGORY";
+
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
